@@ -25,6 +25,8 @@ import {
   saintify,
   soon,
   kostro,
+  michal,
+  viktor,
 } from "../assets";
 
 export const navLinks = [
@@ -99,24 +101,12 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
     name: "Three JS",
     icon: threejs,
   },
   {
     name: "git",
     icon: git,
-  },
-  {
-    name: "Postman",
-    icon: postman,
-  },
-  {
-    name: "Firebase",
-    icon: firebase,
   },
 ];
 
@@ -188,27 +178,21 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Working with Kamil is a pleasure. He is sociable, gets along well with the team and has a sense of humor.",
+    name: "Michał Dymek",
+    designation: "React Developer",
+    company: "Moose INC",
+    image: michal,
+    linkedin: "https://www.linkedin.com/in/micha%C5%82-dymek-641a2a25b/",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
-  },
-  {
-    testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Kamil has never been afraid to ask questions, he learns quickly and always tries to find a solution to the task entrusted to him.",
+    name: "Viktor Zanozin",
+    designation: "Fullstack Developer",
+    company: "Moose INC",
+    image: viktor,
+    linkedin: "https://www.linkedin.com/in/viktor-zanozin-a5b8071a4/",
   },
 ];
 

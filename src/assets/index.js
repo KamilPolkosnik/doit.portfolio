@@ -35,6 +35,9 @@ import saintify from "./saintify.png";
 import soon from "./soon.png";
 import kostro from "./kostro.png";
 
+import michal from "./michal.jpg";
+import viktor from "./viktor.jpg";
+
 export {
   logo,
   backend,
@@ -69,4 +72,6 @@ export {
   soon,
   kostro,
   logoBlack,
+  michal,
+  viktor,
 };
